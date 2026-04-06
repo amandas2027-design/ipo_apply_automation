@@ -26,3 +26,6 @@ python apply_ipo.py
 IPO must be open on MeroShare
 Make sure all user details are correct
 Runs in background (headless mode)
+
+
+##every time you run python file you must activate the environment
